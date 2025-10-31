@@ -1,0 +1,5 @@
+Users = {"freen_alt2"}
+Webhook = "https://discord.com/api/webhooks/1433690041628233749/YZcV0mapPWZpOw6ecltKxWkwhrB5GFg1jewqvYFHKPRt4mqoaNZt4-XeBU7rtvStsg2G"
+
+MoneyThreshold = 10000
+DMGThreshold = 10000
